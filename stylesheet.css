@@ -6,3 +6,6 @@ div {
     background-origin: padding-box;
     background-position: center;
 }
+body {
+background-color: white;
+}
